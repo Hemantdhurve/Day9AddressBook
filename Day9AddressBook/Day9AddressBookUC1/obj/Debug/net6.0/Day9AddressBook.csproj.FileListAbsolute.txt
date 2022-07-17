@@ -1,0 +1,15 @@
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\bin\Debug\net6.0\Day9AddressBook.exe
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\bin\Debug\net6.0\Day9AddressBook.deps.json
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\bin\Debug\net6.0\Day9AddressBook.runtimeconfig.json
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\bin\Debug\net6.0\Day9AddressBook.dll
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\bin\Debug\net6.0\Day9AddressBook.pdb
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.csproj.AssemblyReference.cache
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.AssemblyInfoInputs.cache
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.AssemblyInfo.cs
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.dll
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\refint\Day9AddressBook.dll
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.pdb
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\Day9AddressBook.genruntimeconfig.cache
+C:\Users\Hemant\source\repos\Day9AddressBook\Day9AddressBook\obj\Debug\net6.0\ref\Day9AddressBook.dll
